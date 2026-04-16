@@ -1,0 +1,7 @@
+### -------------
+# get -
+GET http://localhost:3000/
+
+### -------------
+# get -
+GET http://localhost:3000/usuarios
