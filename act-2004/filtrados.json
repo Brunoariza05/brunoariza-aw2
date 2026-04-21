@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "email": "john@mail.com",
+        "password": "changeme",
+        "name": "Jhon",
+        "role": "customer",
+        "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+        "creationAt": "2026-04-20T18:36:24.000Z",
+        "updatedAt": "2026-04-20T18:36:24.000Z"
+    },
+    {
+        "id": 2,
+        "email": "maria@mail.com",
+        "password": "12345",
+        "name": "Maria",
+        "role": "customer",
+        "avatar": "https://i.imgur.com/DTfowdu.jpg",
+        "creationAt": "2026-04-20T18:36:24.000Z",
+        "updatedAt": "2026-04-20T18:36:24.000Z"
+    },
+    {
+        "id": 3,
+        "email": "admin@mail.com",
+        "password": "admin123",
+        "name": "Admin",
+        "role": "admin",
+        "avatar": "https://i.imgur.com/yhW6Yw1.jpg",
+        "creationAt": "2026-04-20T18:36:24.000Z",
+        "updatedAt": "2026-04-20T18:36:24.000Z"
+    },
+    {
+        "id": 4,
+        "email": "yuvraj@gmail.com",
+        "password": "123456",
+        "name": "Yuvraj",
+        "role": "customer",
+        "avatar": "https://res.cloudinary.com/dorvb81fo/image/upload/v1776712473/iwnot5ulheeftzwqixtm.jpg",
+        "creationAt": "2026-04-20T19:14:46.000Z",
+        "updatedAt": "2026-04-20T19:14:46.000Z"
+    },
+    {
+        "id": 5,
+        "email": "yuvraj@gmail.com",
+        "password": "123456",
+        "name": "Yuvraj",
+        "role": "customer",
+        "avatar": "https://res.cloudinary.com/dorvb81fo/image/upload/v1776712473/iwnot5ulheeftzwqixtm.jpg",
+        "creationAt": "2026-04-20T19:28:37.000Z",
+        "updatedAt": "2026-04-20T19:28:37.000Z"
+    },
+    {
+        "id": 6,
+        "email": "ashok@gmail.com",
+        "password": "123456",
+        "name": "Ashok",
+        "role": "customer",
+        "avatar": "https://res.cloudinary.com/dorvb81fo/image/upload/v1776713904/e9cfnaiz3zzz1wpkbbu5.jpg",
+        "creationAt": "2026-04-20T19:38:30.000Z",
+        "updatedAt": "2026-04-20T19:38:30.000Z"
+    },
+    {
+        "id": 7,
+        "email": "ashok@gmail.com",
+        "password": "123456",
+        "name": "Ashok",
+        "role": "customer",
+        "avatar": "https://res.cloudinary.com/dorvb81fo/image/upload/v1776713904/e9cfnaiz3zzz1wpkbbu5.jpg",
+        "creationAt": "2026-04-20T19:38:39.000Z",
+        "updatedAt": "2026-04-20T19:38:39.000Z"
+    },
+    {
+        "id": 8,
+        "email": "ashok@gmail.com",
+        "password": "123456",
+        "name": "Ashok",
+        "role": "customer",
+        "avatar": "https://res.cloudinary.com/dorvb81fo/image/upload/v1776713904/e9cfnaiz3zzz1wpkbbu5.jpg",
+        "creationAt": "2026-04-20T19:39:34.000Z",
+        "updatedAt": "2026-04-20T19:39:34.000Z"
+    },
+    {
+        "id": 9,
+        "email": "ashok@gmail.com",
+        "password": "123456",
+        "name": "Ashok",
+        "role": "customer",
+        "avatar": "https://res.cloudinary.com/dorvb81fo/image/upload/v1776713904/e9cfnaiz3zzz1wpkbbu5.jpg",
+        "creationAt": "2026-04-20T19:42:10.000Z",
+        "updatedAt": "2026-04-20T19:42:10.000Z"
+    }
+]
