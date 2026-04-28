@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>bienvenidos</h1>
+    <script>
+        async function api(){
+            const respuesta = await fetch('https://api.escuelajs.co/api/v1/users')
+            const productos = await respuesta.json()
+            productos.map((producto) => {
+                console.log(producto.email);
+            })
+        }
+        api();
+    </script>
+</body>
+</html>
